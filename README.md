@@ -130,6 +130,6 @@ See deployment steps below. Once deployed, update:
 
 ## Demo Links
 
-- Frontend: _add after deploying_
-- Backend: _add after deploying_
+- Frontend: https://tasks-managing-web-app.vercel.app
+- Backend: https://tasks-managing-web-app.onrender.com
 
